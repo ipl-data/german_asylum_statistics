@@ -11,6 +11,7 @@ library(gridExtra)
 # a dicsontinuity after the so called Asylpaket II (vertical
 # line) was enacted.
 
+# Written by: Niklas Harder
 
 # Syria
 syr <- melt(subset(df.top, country == "Syrien, Arabische Republik", 
