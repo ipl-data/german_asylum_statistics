@@ -5,6 +5,8 @@
 # difference between consecutive months should yield monthly
 # counts.
 
+# Written by: Niklas Harder
+
 # Package should be loaded; but just to be sure:
 library(lubridate)
 
