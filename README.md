@@ -34,7 +34,7 @@ Variable names in the raw data:
 Code:
 
 * clean_data.R (cleans the data)
-* monthly_values.R create (takes the differences between the running aggregates to create monthly counts)
+* monthly_values.R (takes the differences between the running aggregates to create monthly counts)
 * graphs (gives examples how to plot the data)
 
 ![image](https://www.dropbox.com/s/jp12bkgz938etrr/syria.png?dl=1)
