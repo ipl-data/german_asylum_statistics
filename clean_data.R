@@ -12,6 +12,8 @@
 # drop from one month to the other. I assume that this is due to data cleaning
 # on the side of BAMF.
 
+# Written by: Niklas Harder
+
 # Set working directory, read the data, and load packages
 setwd("C:/Users/nharder/Dropbox (IPL)/Refugees_Germany/Data")
 df <- read.csv("asylum_stats_germany.csv", nrows = 300, dec = ",")
